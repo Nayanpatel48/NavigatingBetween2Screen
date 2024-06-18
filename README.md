@@ -1,1 +1,1 @@
-# Reply-app-prototype
+This is a practice app.
